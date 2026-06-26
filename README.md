@@ -2,9 +2,7 @@
 
 GreenCart is a full-stack **MERN E-Commerce** web application that provides a seamless online shopping experience. Users can browse products, manage their cart, place secure orders using **Stripe**, while sellers can manage product listings with images stored on **Cloudinary**.
 
-## 🚀 Live Demo
 
-**Frontend:** ....
 
 ---
 
